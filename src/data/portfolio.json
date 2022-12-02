@@ -1,0 +1,32 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/sorry/Sorry!.png",
+            "title": "Sorry!",
+            "description": "Virtual recreation of the Sorry! board game. This project utilizes the Pygame module in Python.",
+            "url": "https://github.com/LuraMisner/Sorry-Python"
+
+        },
+        {
+            "cover": "/portfolio/doggyplaydate/DoggyPlaydate.png",
+            "title": "Doggy Playdate",
+            "description": "Prototype of an app to connect dog owners. This project was written in Swift and used Firebase.",
+            "url": "https://github.com/LuraMisner/IOSProject"
+
+        },
+        {
+            "cover": "/portfolio/compilerproject/comp.png",
+            "title": "Compiler Project",
+            "description": "Writing a compiler to translate .rfun code into x86 assembly. This project was written in Python.",
+            "url": "https://github.com/LuraMisner/CompilerProject"
+
+        },
+        {
+            "cover": "/portfolio/query/query.png",
+            "title": "Simplified Query",
+            "description": "Writing a customized query language. This project used Python and MySql.",
+            "url": "https://github.com/LuraMisner/QueryProject"
+
+        }
+    ]
+}
